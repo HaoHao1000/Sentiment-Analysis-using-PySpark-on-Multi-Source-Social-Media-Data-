@@ -6,3 +6,5 @@
    - Bộ dữ liệu Twitter sau khi được clean sẽ được lưu thành file mới là file dataset.csv
    - Bộ dữ liệu Reddit sau khi được clean sẽ được lưu thành file mới là redt_dataset.csv
 4. Sentiment: 
+   - Quá trình sentiment với bộ Twitter được trình bày trong file Twitter_Sentiment_Analysis
+   - Quá trình sentiment với bộ Reddit được trình bày trong file Reddit_Sentiment_Analysis 
